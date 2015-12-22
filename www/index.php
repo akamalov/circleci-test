@@ -19,6 +19,7 @@ include "lib.php";
     	http://absurdwordpreferred.deviantart.com/art/FREE-Cogs-Transparent-PNG-145452644
     -->
 	<title>CircleCI & CodeDeploy</title>
+	<h2> v1.2 </h2>
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
 	<meta charset="UTF-8">
